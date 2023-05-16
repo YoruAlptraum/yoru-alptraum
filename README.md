@@ -22,3 +22,5 @@
   <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruAlptraum&layout=compact&hide=Yacc&theme=tokyonight&hide_border=true" />
 </div>
  
+![snake gif](https://github.com/YoruAlptraum/YoruAlptraum/blob/output/github-contribution-grid-snake.svg)
+    
