@@ -13,7 +13,7 @@
 <img  src="resources/line-separator.gif">
 <img src="https://github-profile-trophy.vercel.app/?username=YoruAlptraum&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />   
 
-[![YoruAlptraum's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YoruAlptraum&custom_title=YoruAlptraum's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoruAlptraum&custom_title=YoruAlptraum's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/YoruAlptraum">
