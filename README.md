@@ -1,11 +1,13 @@
-<img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello There!+Welcome+to+my+GitHub profile" align="middle">
+<div align="center">
+    <img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi, I'm Thiago Ozawa">
+</div>
 <img  src="resources/line-separator.gif">
 
 <!-- I should probably put a introduction here, something like... -->
 <!-- Hello! I'm Thiago Ozawa, I'm not completely sure if I can say I am something  -->
 
 <div align="center">
-    <h1 align="center">Views Count</h1>
+    <h1 align="center">Profile View Count</h1>
     <img alt="views_counter" src="https://profile-counter.glitch.me/YoruAlptraum/count.svg">
 </div>
 
@@ -21,4 +23,16 @@
 
   <img alt = "most_used_languages" height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruAlptraum&layout=compact&hide=Yacc&theme=tokyonight&hide_border=true" />
 </div>
-    
+
+<img src="resources/line-separator.gif">
+
+<div align="center">
+    <img alt="Check my website" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Check out my website">
+</div>
+
+<a align="center" width="50vw" href="https://ozawathiago.vercel.app" target="_blank">
+  <img src="resources/my_website.png">
+</a>
+
+<img src="resources/line-separator.gif">
+
