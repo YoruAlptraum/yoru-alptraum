@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi, I'm Thiago Ozawa">
+    <img alt="Animated typed out title" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi">
 </div>
 
 <img src="https://github.com/YoruAlptraum/YoruAlptraum/blob/23e698c52fb9552c4bad6c80498fc44985ada854/resources/line-separator.gif?raw=True"/>
